@@ -17,8 +17,6 @@ if ( elevadorA != NaN || elevadorB != NaN || pisoGama != NaN)
         console.log("Gama, el elevador A está más cerca de tu piso.");
     else if (distanciaAG > distanciaBG)
         console.log("Gama, el elevador B está más cerca de tu piso.");
-    // else
-    //     console.log("Debes introducir números.");
 }
 else
     console.log("Debes introducir números.");    
