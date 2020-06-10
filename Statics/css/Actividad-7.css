@@ -1,0 +1,23 @@
+body{
+    background-color: lightblue;
+}
+
+.celda{
+    background-color: white;
+    display: table-cell;
+    height: 20px;
+    margin: 0;
+    width: 20px;
+}
+
+.fila .celda:nth-of-type(2n){
+    background-color: black;
+}
+
+.fila:nth-of-type(2n) .celda{
+    background-color: black;
+}
+
+.fila:nth-of-type(2n) .celda:nth-of-type(2n){
+    background-color: white;
+}
