@@ -7,3 +7,6 @@ No funciona correctamente. Recuerda la jerarquía de operadores. Si ponemos 2 - 
 
 - Práctica 5
 10
+
+- Práctica 6
+10
