@@ -20,3 +20,6 @@ No funciona correctamente. Recuerda la jerarquía de operadores. Si ponemos 2 - 
 - Práctica 9
 9
 Está bien la prática, pero no tiene comentarios y no hiciste con callbacks hechos por ti (como el ejemplo de la sucesión de Fibonacci).
+
+- Práctica 11
+Muy buena la práctica, pero les faltó comentarios en el código.
