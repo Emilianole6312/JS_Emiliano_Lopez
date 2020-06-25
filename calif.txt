@@ -4,3 +4,6 @@ No funciona correctamente. Recuerda la jerarquía de operadores. Si ponemos 2 - 
 
 - Práctica 4
 10
+
+- Práctica 5
+10
