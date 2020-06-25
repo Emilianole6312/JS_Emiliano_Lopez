@@ -1,3 +1,6 @@
 - Práctica 1
 5
 No funciona correctamente. Recuerda la jerarquía de operadores. Si ponemos 2 - 3 * -1, primero se va a hacer la multiplicación y luego la resta (2 - -3 => 2 + 3 => 5). Si queremos que primero se sume y luego se multiplique por -1, sería: ( 2 - 3 ) * -1. Esto es porque los paréntesis tienen mayor jerarquía que la multiplicación, y el resultado sería 1.
+
+- Práctica 4
+10
